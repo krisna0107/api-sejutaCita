@@ -6,6 +6,12 @@ Berikut adalah API User Sejuta Cita menggunakan Express JS by Yohanes Krisna Yan
 Untuk Link Dokumentasi bisa klik [disini](http://34.101.65.182/api-docs/).
 
 Base URL : http://34.101.65.182/
+*Example Auth (Kirim melalui Header)*
+```json
+{
+    Authorization : Bearer eyJhbGciOiJIUzI1NiIsIn...
+}
+```
 
 **CREDENTIAL Admin (Body API Login)**
 ```json
