@@ -26,7 +26,7 @@ const swaggerOptions = {
         info: {
             version: "1.0.0",
             title: "Sejuta Cita API",
-            description: "By Yohanes Krisna",
+            description: "[ Base Url : http://"+process.env.SWAGER_URL+"/ ]",
             contact: {
                 name: "Yohanes Krisna Yana Javista"
             },
