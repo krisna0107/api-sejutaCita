@@ -10,4 +10,5 @@ Base URL : http://34.101.65.182/
 ## Diagram
 ### Login : 
 Gambar dibawah ini adalah diagram yang menjelaskan alur proses Login :
+
 ![My animated logo](doc/login.drawio.png)
