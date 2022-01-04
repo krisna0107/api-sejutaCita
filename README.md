@@ -71,4 +71,4 @@ Gambar dibawah ini adalah diagram yang menjelaskan alur proses update user :
 ### Delete Users By ID (For Admin) : 
 Gambar dibawah ini adalah diagram yang menjelaskan alur proses delete user :
 
-![Delete Users](doc/Delete%2User.drawio.png)
+![Delete Users](doc/Delete%20User.drawio.png)
