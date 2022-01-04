@@ -9,7 +9,7 @@ Base URL : http://34.101.65.182/
 *Example Auth (Kirim melalui Header)*
 ```json
 {
-    Authorization : Bearer eyJhbGciOiJIUzI1NiIsIn...
+    "Authorization" : "Bearer eyJhbGciOiJIUzI1NiIsIn..."
 }
 ```
 
