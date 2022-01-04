@@ -11,4 +11,19 @@ Base URL : http://34.101.65.182/
 ### Login : 
 Gambar dibawah ini adalah diagram yang menjelaskan alur proses Login :
 
-![My animated logo](doc/login.drawio.png)
+![Login](doc/login.drawio.png)
+
+### Refresh Token : 
+Gambar dibawah ini adalah diagram yang menjelaskan alur proses refresh Token :
+
+![Refresh Token](doc/refresh Token.drawio.png)
+
+### User Details (All Users) : 
+Gambar dibawah ini adalah diagram yang menjelaskan alur proses mengambil data user dari database :
+
+![Detail User](doc/User Detail.drawio.png)
+
+### Get Users (For Admin) : 
+Gambar dibawah ini adalah diagram yang menjelaskan alur proses get all users :
+
+![All Users](doc/Get Users.drawio.png)
