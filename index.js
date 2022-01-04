@@ -26,11 +26,11 @@ const swaggerOptions = {
         info: {
             version: "1.0.0",
             title: "Sejuta Cita API",
-            description: "http://localhost/",
+            description: "By Yohanes Krisna",
             contact: {
                 name: "Yohanes Krisna Yana Javista"
             },
-            servers: ["http://localhost:3000"]
+            servers: [process.env.SWAGER_URL]
         }
     },
     apis: ['routes/*.js']
