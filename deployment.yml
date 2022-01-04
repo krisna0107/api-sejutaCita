@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: api-sejutacita
-        image: gcr.io/fast-audio-337101/app:v1
+        image: gcr.io/fast-audio-337101/app:v2
         ports:
         - containerPort: 3000
         env:
